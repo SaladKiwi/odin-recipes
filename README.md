@@ -1,1 +1,1 @@
-# odin-recipes
+The project is to use html to build 3 web pages worth of recipes and link them all together with an index page
